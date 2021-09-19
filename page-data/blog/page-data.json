@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-blog-index-js",
+    "path": "/blog/",
+    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"date":"September 19, 2021","title":"Quotes Part 1"},"id":"ee9ae9b2-c3ad-5109-aaca-8a2c069be3fa","slug":"quotes-part-1/"},{"frontmatter":{"date":"September 19, 2021","title":"Quotes Part 2"},"id":"13b2fc85-2042-5b38-b2d9-3e8ea1500190","slug":"quotes-part-2/"}]}},"pageContext":{}},
+    "staticQueryHashes": ["3159585216"]}
